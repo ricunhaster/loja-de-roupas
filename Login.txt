@@ -1,1 +1,5 @@
 Tela de Login
+Digite seu nome
+Digite sua senha
+Digite novamente a senha
+Clique em OK
