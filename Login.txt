@@ -1,5 +1,7 @@
 Tela de Login
-Digite seu nome
+Digite seu email
 Digite sua senha
 Digite a senha novamente
 Clique em OK
+Abra seu email
+Confirme o link do email
