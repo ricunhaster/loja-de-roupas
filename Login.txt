@@ -5,3 +5,4 @@ Digite a senha novamente
 Clique em OK
 Abra seu email
 Confirme o link do email
+Conta criada
