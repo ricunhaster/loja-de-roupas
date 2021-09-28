@@ -2,4 +2,5 @@ Tela de Login
 Digite o seu email
 Digite a senha
 Redigite a senha 
-Clique em Alterar
+Clique em Salvar
+
