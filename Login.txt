@@ -1,6 +1,6 @@
 Tela de Login
 Digite o seu email
 Digite a senha
-Redigite a senha 
-Clique em Salvar
+Confirme a senha 
+Clique em Gravar
 
