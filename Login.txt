@@ -1,6 +1,9 @@
-tela de login
-Digite o seu nome
-Digite a password
-Redigite a password
-Clique em Alterar
+Tela de Login
+Digite seu email
+Digite sua senha
+Digite a senha novamente
+Clique em OK
+Abra seu email
+Confirme o link do email
+Conta criada
 
